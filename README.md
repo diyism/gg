@@ -1,3 +1,5 @@
+不用gg config 可以直接修改配置文件位置: ~/.config/gg/config.toml
+
 # gg (go-graft)
 
 [README](README.md) | [中文文档](README_zh.md)
